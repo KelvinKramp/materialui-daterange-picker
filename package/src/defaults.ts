@@ -12,7 +12,7 @@ import {
 
 // eslint-disable-next-line no-unused-vars
 import { DefinedRange } from './types';
-
+//  test
 const getDefaultRanges = (date: Date): DefinedRange[] => [
   {
     label: 'Today',
